@@ -32,7 +32,8 @@
     "typings/**/*"
   ],
   "license": "MIT",
-  "main": "./dist/import/index.js",
+  "main": "./dist/require/index.js",
+  "module": "./dist/import/index.js",
   "name": "i18n-js",
   "repository": "https://github.com/fnando/i18n",
   "scripts": {
